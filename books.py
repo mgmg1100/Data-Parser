@@ -1,5 +1,4 @@
 '''
-Codetest of Renyu Zhang for software engineer position of GP Energy Management
 The problems are solved by implementing a customized dataframe class.
 The program should be executed by Python 3.4
 '''
